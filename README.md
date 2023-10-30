@@ -1,4 +1,6 @@
-# DataAnalysis
+# Simple Data Analysis Calculator
+
+## About the project
 
 This application will take a text file input from within the project folder and find the mean, standard deviation, population size, and population variance for a dataset. 
 
